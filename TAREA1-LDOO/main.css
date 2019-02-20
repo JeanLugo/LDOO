@@ -1,0 +1,8 @@
+body{
+	background: url(https://www.pintores-decoradores.com/wp-content/uploads/2015/04/papel-selma-blanco.jpg);
+	background-attachment: fixed; 
+}
+p a{
+	color:green;
+	font-size: 20px;
+}
